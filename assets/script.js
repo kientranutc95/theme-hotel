@@ -20,7 +20,7 @@ $(document).ready(function($) {
   $('.social i').tooltip('hide')
 });
 
-// 
+//
 
 var wow = new WOW(
   {
