@@ -35,7 +35,6 @@
                 <a class="right carousel-control" href="#FoodCarousels" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
             </div>
             <!-- RoomCarousel-->
-            <div class="caption">Food and Drinks<a href="gallery.php" class="pull-right"><i class="fa fa-edit"></i></a></div>
         </div>
     </div>
 </div>
